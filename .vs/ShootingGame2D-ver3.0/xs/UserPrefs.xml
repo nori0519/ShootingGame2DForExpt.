@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{0C73C554-F4C7-1C0B-0710-F4580CB9893B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BulletGenerator2.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameDirector.cs" Line="35" Column="38" />
+      <File FileName="Assets/Scripts/Player2Script.cs" Line="143" Column="45" />
+      <File FileName="Assets/Scripts/BulletGenerator.cs" Line="25" Column="14" />
+      <File FileName="Assets/Scripts/BulletScript.cs" Line="87" Column="11" />
+      <File FileName="Assets/Scripts/BulletScript2.cs" Line="86" Column="6" />
+      <File FileName="Assets/Scripts/PlayerScript.cs" Line="56" Column="9" NotebookId="1" />
+      <File FileName="Assets/Scripts/BulletGenerator2.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="762fbd95-0f65-4bb2-bcd4-e6f401b2fac5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+﻿<Properties StartupConfiguration="{198A0931-7FE8-79BC-18D4-5226E7421FDB}|">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="46181630-a1bb-4e63-8464-9b7916d074b9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mototakatanno/Desktop/ShootingGame2D-test版/Assets/Scripts/PlayerScript.cs" relfile="Assets/Scripts/PlayerScript.cs" line="129" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
