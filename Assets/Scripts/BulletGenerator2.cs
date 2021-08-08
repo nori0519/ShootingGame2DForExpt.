@@ -61,5 +61,21 @@ public class BulletGenerator2 : MonoBehaviour
                 bullet2.transform.position = new Vector2(this.player2.transform.position.x + 0.45f, this.player2.transform.position.y - 1);
             }
         }
+        if (hit.collider.CompareTag("player"))
+        {
+            if (Finished_b2 == false)
+            {
+                //一定の時間間隔での処理実行
+                // 普通：10000ms(1s)毎 or　強い：0.3s毎
+                timeElapsed += Time.deltaTime;
+                if (timeElapsed < timeout) return;
+                timeElapsed = 0.0f;
+
+                //弾を定義
+                GameObject bullet2 = Instantiate(bulletPrefab) as GameObject;
+                // 弾をプレイヤーの中心座標から生成
+                bullet2.transform.position = new Vector2(this.player2.transform.position.x + 0.45f, this.player2.transform.position.y - 1);
+            }
+        }
     }
 }

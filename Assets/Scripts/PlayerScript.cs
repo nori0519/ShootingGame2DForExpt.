@@ -35,6 +35,9 @@ public class PlayerScript : MonoBehaviour
             var vert = Input.GetAxis("Vertical");
 
             rigid2D.velocity = new Vector2(hori, vert) * 5;
+        }else {
+            rigid2D.velocity = Vector2.zero;
+            rigid2D.angularVelocity = 0f;
         }
     }
 
